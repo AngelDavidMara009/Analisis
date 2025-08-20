@@ -1,5 +1,5 @@
 -- Inserta datos de ejemplo en la tabla Huéspedes
-INSERT INTO huéspedes1 ( nombre, apellido, email, telefono, direccion) VALUES
+INSERT INTO huespedes1 ( nombre, apellido, email, telefono, direccion) VALUES
 ('Ana', 'García', 'ana.garcia@email.com', '555-1234', 'Calle Falsa 123'),
 ('Luis', 'Pérez', 'luis.perez@email.com', '555-5678', 'Avenida Siempre Viva 456');
 
