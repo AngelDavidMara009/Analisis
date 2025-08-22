@@ -1,8 +1,0 @@
----Josett Daniel Ramos Lopez #51 11BTP Aporte del repositorio
---Se les adjunto las capturas  tipo PNG de cada una de las consultas 
--tambien de DATABASE y De los datos Insertados por mis compañeros 
----- Y aparte los codigos SQL de cada consulta 
---consultas a Tratar 
---1. Habitaciones disponibles
---2. Reservas activas
---3.Huéspedes con reservas
