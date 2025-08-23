@@ -12,11 +12,8 @@ Sistema de gestión de reservas para hotel que permite administrar habitaciones,
 - **25_Naary_Nohely_Sierra_Flores**
 - **32_Angel_David_Maradiaga_Rodriguez**
 - **51_Josett_Daniel_Ramos_López**
-
-## 🚀 Instrucciones de Instalación y Uso
-
-### Prerrequisitos
+## Prerrequisitos
 - Supabase para la creación de la base de datos
 - Git para control de versiones
-### Imagen del diagrama
+## Imagen del diagrama
 ![Diagrama de la base de datos](/imagenes/Diagrama.png)
