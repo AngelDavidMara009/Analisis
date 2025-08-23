@@ -6,7 +6,7 @@ Sistema de gestión de reservas para hotel que permite administrar habitaciones,
 
 ## 👥 Integrantes del Equipo
 
-- **03_Alexa_Suazo**
+- **03_Alexa_Nariela_Suazo:Amador**
 - **18_Janell_Vanessa_Martínez_Matamoros**
 - **21_Madison_Gabriela_Romero_Cortés**
 - **25_Naary_Nohely_Sierra_Flores**
