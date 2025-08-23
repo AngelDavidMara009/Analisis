@@ -1,0 +1,8 @@
+CREATE TABLE Facturas (
+    id_factura SERIAL PRIMARY KEY,
+    id_reserva INT NOT NULL REFERENCES Reservas(id_reserva) ON DELETE CASCADE,
+    fecha_emision TIMESTAMP NOT NULL DEFAULT NOW(),
+    monto_total NUMERIC(10,2) NOT NULL,
+    metodo_pago VARCHAR(50) NOT NULL,
+    estado VARCHAR(50) NOT NULL DEFAULT 'Pendiente'
+);
